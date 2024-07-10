@@ -1,5 +1,5 @@
 .jewel-img{
-    background-image:url(C:\Users\liyas\OneDrive\Desktop\react\smstore\public\assets\images\2.jpeg) ;
+    background-image:url('/public/assets/images/2.jpeg') ;
     height: 400px;
     width: 98.9vw;
     background-size: cover;

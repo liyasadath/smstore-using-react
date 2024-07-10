@@ -11,20 +11,20 @@ export default function Slider() {
 >
   <div className="carousel-inner">
     <div className="carousel-item active">
-      <img src="assets\images\n.jpg" className="d-block w-100" alt="..." height={'800'} width={'300'}/>
+      <img src="/assets/images/n.jpg" className="d-block w-100" alt="..." height={'800'} width={'300'}/>
       <div className='text'><span className='text1'>Men's Collection</span><br />
       <span className='text2'>New Arrivals</span>
       <br /><button type="button" className='btn btn-primary' style={{height:"30px",width:"110px"}}>Shop Now</button></div>
     </div>
     <div className="carousel-item">
-      <img src="assets\images\im.jpg" className="d-block w-100" alt="..." height={'800'} width={'300'} />
+      <img src="/assets/images/im.jpg" className="d-block w-100" alt="..." height={'800'} width={'300'} />
       <div className='text'><span className='text1'>Women's Collection</span><br />
       <span className='text2'>New Seasons</span>
       <br /><button type="button" className='btn btn-primary' style={{height:"30px",width:"110px"}}>Shop Now</button></div>
     </div>
     </div>
     <div className="carousel-item">
-      <img src="assets\images\im5.jpg" className="d-block w-100" alt="..." height={'800'} width={'300'}/>
+      <img src="/assets/images/im5.jpg" className="d-block w-100" alt="..." height={'800'} width={'300'}/>
       <div className='text'><span className='text1'>Accessories</span><br />
       <span className='text2'>Slide Jacket</span>
       <br /><button type="button" className='btn btn-primary' style={{height:"30px",width:"110px"}}>Shop Now</button></div>

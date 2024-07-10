@@ -1,5 +1,5 @@
 .img-elect{
-    background-image:url(smstore\public\assets\images\a.webp) ;
+    background-image:url('/public/assets/images/a.webp') ;
     height: 400px;
     width: 98.9vw;
     background-size: cover;

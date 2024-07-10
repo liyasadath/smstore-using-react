@@ -1,5 +1,5 @@
 .women-img{
-    background-image:url(C:\Users\liyas\OneDrive\Desktop\react\smstore\public\assets\images\w5.jpg) ;
+    background-image:url('/public/assets/images/w5.jpg') ;
     height: 500px;
     width: 98.9vw;
     background-size: cover;

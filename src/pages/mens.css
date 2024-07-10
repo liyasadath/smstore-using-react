@@ -1,5 +1,5 @@
 .men-img{
-    background-image:url(C:\Users\liyas\OneDrive\Desktop\react\smstore\public\assets\images\m6.jpg) ;
+    background-image:url('/public/assets/images/m6.jpg') ;
     height: 500px;
     width: 98.9vw;
     background-size: cover;

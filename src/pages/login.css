@@ -1,7 +1,7 @@
 .lo1{
     
     padding-top: 5%;
-   background-image: url(C:\Users\liyas\OneDrive\Desktop\react\smstore\public\assets\images\l6.avif);
+   background-image: url('/public/assets/images/l6.avif');
     text-align: center;
     
     

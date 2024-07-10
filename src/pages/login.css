@@ -1,0 +1,32 @@
+.lo1{
+    
+    padding-top: 5%;
+   background-image: url(C:\Users\liyas\OneDrive\Desktop\react\smstore\public\assets\images\l6.avif);
+    text-align: center;
+    
+    
+    background-size: cover;
+    height: 730px;
+    color: rgb(12, 12, 12);
+}
+.re6{
+    text-decoration: none;
+    color: rgb(6, 5, 5);
+}
+.re5{
+    text-decoration: none;
+    color: black;
+}
+.lo1 h1{
+    color: white;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.lo2{
+    width: 400px;
+    height: 500px;
+    background-color:rgba(255, 255, 255, 0.221) ;
+    border-radius: 4%;
+margin-left: 35%;
+padding-top: 2%;
+}

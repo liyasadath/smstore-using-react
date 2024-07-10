@@ -1,0 +1,31 @@
+.pro{
+    height: 600px;
+    width: 400px;
+    /* border: 1px solid black; */
+}
+.pro2{
+    display: flex;
+    justify-content: center;
+    padding-top: 4%;
+}
+.pro1{
+    height: 600px;
+    width: 400px;
+}
+.pro1 h6{
+    color: rgb(62, 60, 60);
+}
+
+.pro1 h5{
+    font-weight: bold;
+}
+.pro3{
+    height: 40px;
+    width: 120px;
+    border: none;
+    background-color: rgb(56, 56, 181);
+    color: white;
+    font-size: 110%;
+    position: absolute;
+    left: 67%;
+}

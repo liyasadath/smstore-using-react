@@ -1,0 +1,63 @@
+.navbar-brand{
+    font-size: large;
+    font-weight: 600;
+}
+.main{
+    z-index: 10;
+    height: 80px;
+    position: sticky;
+    top: 0%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.navbar{
+    height: 80px;
+    background-color: white;
+    padding-left: 2%;
+}
+.nav-link{
+    color: black;
+    font-weight: 500;
+}
+.collapse{
+    padding-left: 6%;
+}
+.d-flex{
+    height: 80px;
+}
+.btn1{
+    color: rgb(194, 187, 187);
+    font-weight: 700;
+    background-color: white;
+    border: none;
+    ;
+}
+.search{
+    border: 0.5px solid rgb(229, 210, 210);
+    height: 80px;
+    width: 177.8px;
+    align-content: center;
+    padding-left: 2%;
+}
+.bi2{
+color: rgb(229, 210, 210);
+font-weight: 700;
+}
+.searchicon{
+    width: 375.2px;
+    border: 0.5px solid rgb(229, 210, 210);
+    height: 80px;
+    display: flex;
+    margin-right: -1%;
+    margin-top: -0.1%;
+    
+
+
+}
+.icon2{
+    width: 65.8px;
+    border: 0.5px solid rgb(229, 210, 210);
+    height:80px;
+    align-content: center;
+    padding-left: 6%;
+
+}

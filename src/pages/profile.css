@@ -1,0 +1,35 @@
+.pro1{
+    width: 700px;
+    height: 500px;
+    border: 0.5px solid rgb(50, 47, 47);
+    text-align: left;
+    padding-top: 3%;
+    padding-left: 12%;
+}
+.prohe{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+.proli{
+    color: rgb(201, 188, 188);
+    position: absolute;
+    left: 35%;
+}
+.pro3{
+    text-decoration: none;
+    background-color:white;
+    color: black;
+    position: absolute;
+    left: 50%;
+}
+.probt{
+    width: 590px;
+    height: 60px;
+    position: absolute;
+    left: 31%;
+    background-color: rgb(237, 91, 91);
+    border: none;
+    color: white;
+font-weight:bold ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

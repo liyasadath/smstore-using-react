@@ -1,0 +1,27 @@
+.re1{
+    text-align: center;
+    padding-top: 2%;
+    background-image: url(C:\Users\liyas\OneDrive\Desktop\react\smstore\public\assets\images\7.avif);
+    background-size: cover;
+    color: rgb(31, 28, 28);
+}
+.re9{
+  width: 100px;  
+  padding-right: 2%;
+}
+.lo2{
+    text-decoration: none;
+    color: black;
+    
+}
+.re10{
+    width: 120px;
+}
+.re11{
+    width: 400px;
+    height: 600px;
+    background-color: rgba(255, 255, 255, 0.311);
+    border-radius: 5%;
+    padding-top: 3%;
+    margin-left: 36%;
+}

@@ -1,0 +1,49 @@
+.women-img{
+    background-image:url(C:\Users\liyas\OneDrive\Desktop\react\smstore\public\assets\images\w5.jpg) ;
+    height: 500px;
+    width: 98.9vw;
+    background-size: cover;
+    align-content: center;
+}
+.jewel-head h1{
+    color: rgb(241, 233, 233);
+font-size: 70px;
+justify-content: center;
+text-align: center;
+font-weight: 700;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.elect-api{
+    height: 500px;
+	width: 300px;
+	background-color: white;
+	border: 1px solid rgb(70, 65, 65);
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
+	border: none;
+
+}
+.elect-rate{
+	text-align: end;
+}
+.jewel-cont{
+    display: flex;
+	flex-wrap: wrap;
+    padding-top: 50px;  
+}
+.elect-cate{
+    color: rgb(86, 81, 81);
+	font-size: medium;
+	text-align: left;
+}
+.elect-title{
+    text-align: left;
+}
+.elect-pri{
+    text-align: left;
+	font-weight: bold;
+}
